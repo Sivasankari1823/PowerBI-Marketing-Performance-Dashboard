@@ -23,9 +23,7 @@ To analyze and visualize **marketing performance metrics** across multiple chann
 
 **Dataset:** Marketing Campaign Performance Dataset
 - <a href="https://github.com/Sivasankari1823/PowerBI-Marketing-Performance-Dashboard/blob/main/Marketing_Campaign_Performance.csv.xlsx"> Dataset</a>
-**Data Size:** ~1,000 records  
-**Data Columns:** Channel, Region, Cost, Revenue, Impressions, Clicks, Conversions, ROI, CTR, Age Group, Gender  
-
+ 
 ---
 
 ## ❓ Questions Answered (KPIs Used)
